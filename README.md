@@ -8,8 +8,8 @@ Currently, it performs the following:
 Checks to ensure that:
 
 - All essential normalisation channels are present.
-- Illegal characters are not present in the Target names. (This is a limitation imposed by CyTOF software)
-- Cell ID (Ir / Rh) is present
+- Illegal characters are not present in the Target names. (This is a limitation imposed by CyTOF software).
+- Cell ID (Ir / Rh) is present.
 
 Provides the following functionality:
 
@@ -18,6 +18,8 @@ Provides the following functionality:
 - Lookup of isotope by mass or name.
 - Sorting of Panel by mass or name.
 - Save as .tem file ready for use on CyTOF.
+
+Tested on CyTOF software version 6.7.1014, using default Event mode parameters.
 
 <br>
 
