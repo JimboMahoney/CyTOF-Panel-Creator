@@ -14,6 +14,7 @@ Checks to ensure that:
 Provides the following functionality:
 
 - Default Template containing common contaminants, barcodes and Cell ID (Live/Dead, Ir)
+- Upload from Excel file.
 - Easy Add/Remove of Barcodes, Bead (EQ), Contaminants and Blank (M +/- 1) channels.
 - Lookup of isotope by mass or name.
 - Sorting of Panel by mass or name.
