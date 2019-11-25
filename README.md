@@ -22,7 +22,7 @@ Provides the following functionality:
 
 - Default template containing common contaminants, barcodes and Cell ID (Live/Dead, Ir).
 - Upload template from Excel file (file must have headers for columns and mass/element in first column; target/markers in second column).
-- Easy Add/Remove of Barcodes, Bead (EQ), Contaminants and Blank (M +/- 1) channels.
+- Easy Add/Remove of Barcodes, Bead (EQ), Contaminants and Blank (M +/- 1 plus isotopic impurities) channels.
 - Lookup of isotope by mass or name.
 - Sorting of Panel by mass or name.
 - Save as .tem file ready for use on CyTOF.
