@@ -16,7 +16,7 @@ Checks to ensure that:
 
 - All essential normalisation channels are present.
 - Illegal characters are not present in the Target names. (This is a limitation imposed by CyTOF software).
-- Cell ID (Ir / Rh) is present.
+- Cell ID (Ir) is present.
 
 Provides the following functionality:
 
