@@ -29,7 +29,7 @@ Provides the following functionality:
 - Sorting of Panel by mass or name.
 - Save as .tem file ready for use on CyTOF.
 
-Tested on CyTOF software version 6.7.1014, using default Event mode parameters.
+Tested on a Helios running CyTOF software version 6.7.1014, using default Event mode parameters.
 
 <br>
 
