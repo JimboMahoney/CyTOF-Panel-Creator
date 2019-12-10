@@ -1,4 +1,4 @@
-# CyTOF-Panel-Creator
+# CyTOF-Template-Creator
 A web-based (Shiny) [interface](https://jimbomahoney.shinyapps.io/shiny/) to create CyTOF .tem files.
 
 This allows (hopefully) easy creation of .tem files, which can then be loaded onto a CyTOF system for acquisition.
