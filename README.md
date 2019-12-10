@@ -39,6 +39,9 @@ Tested on a Helios running CyTOF software version 6.7.1014, using default Event 
 As with any software, this may have bugs and is used <b>at your own risk.</b>
 <br>
 <br>
+This is not an official product of nor endorsed by Fluidigm or anyone else.
+<br>
+<br>
 Before acquiring any data on an instrument, you should double-check that all channels / parameters are present! 
 <br>
 <br>
