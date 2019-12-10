@@ -35,7 +35,7 @@ Tested on a Helios running CyTOF software version 6.7.1014, using default Event 
 
 [![Foo](https://raw.githubusercontent.com/JimboMahoney/CyTOF-Panel-Creator/master/2019_11_22_14_12_17_CyTOF_Template_Creator.png)](https://jimbomahoney.shinyapps.io/shiny/)
 
-## Disclaimer
+## Disclaimer:
 As with any software, this may have bugs and is used <b>at your own risk.</b>
 <br>
 <br>
