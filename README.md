@@ -12,14 +12,6 @@ Last updated: 10th Jan 2020.
 - There is no error-checking in the CyTOF software (e.g. it's easy to miss essential channels, such as EQ beads).
 - Just for fun! It's the first time I've built and uploaded a Shiny app.
 
-## Error-Checking:
-
-Checks to ensure that:
-
-- All essential normalisation channels are present.
-- Illegal characters are not present in the Target names. (This is a limitation imposed by CyTOF software).
-- Cell ID (Ir) is present.
-
 ## Functionality:
 
 - Default template containing common contaminants, barcodes and Cell ID (Live/Dead, Ir).
@@ -30,6 +22,16 @@ Checks to ensure that:
 - Lookup of isotope by mass or name.
 - Sorting of Panel by mass or name.
 - Save as .tem file ready for use on CyTOF.
+
+## Error-Checking:
+
+Checks to ensure that:
+
+- All essential normalisation channels are present.
+- Illegal characters are not present in the Target names. (This is a limitation imposed by CyTOF software).
+- Cell ID (Ir) is present.
+
+<br>
 
 Tested on a Helios running CyTOF software version 6.7.1014, using default Event mode parameters.
 
