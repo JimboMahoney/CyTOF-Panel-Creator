@@ -33,9 +33,7 @@ Checks to ensure that:
 
 <br>
 
-Tested on a Helios running CyTOF software version 6.7.1014, using default Event mode parameters.
 
-<br>
 
 [![Foo](https://raw.githubusercontent.com/JimboMahoney/CyTOF-Panel-Creator/master/2019_11_22_14_12_17_CyTOF_Template_Creator.png)](https://jimbomahoney.shinyapps.io/shiny/)
 
@@ -50,4 +48,6 @@ Before acquiring any data on an instrument, you should double-check that all cha
 <br>
 <br>
 Having said that, this tool was specifically designed to <b>reduce</b> the likelihood of missing channels. It's more likely that you will acquire <b>more</b> data using this template creator!
+<br>
+Tested on a Helios running CyTOF software version 6.7.1014, using default Event mode parameters.
 
