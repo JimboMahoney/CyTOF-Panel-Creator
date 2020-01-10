@@ -23,7 +23,7 @@ Checks to ensure that:
 - Default template containing common contaminants, barcodes and Cell ID (Live/Dead, Ir).
 - Quickly create template for the [Direct Immune Profiling Assay](https://www.fluidigm.com/reagents/proteomics/201325-maxpar-direct-immune-profiling-assay).
 - Upload template from Excel file (file must have headers for columns and mass/element in first column; target/markers in second column).
-- Easy Add/Remove of Barcodes, Cell-ID, Bead (EQ), Contaminants and Blank (M +/- 1 plus isotopic impurities) channels.
+- Easy Add/Remove of Barcodes, Cell-ID, Bead (EQ), Contaminants and Blank (M +/- 1 plus isotopic impurities and +16 oxidation) channels.
 - Easy swap of Live/Dead marker (Pt195 or Rh103).
 - Lookup of isotope by mass or name.
 - Sorting of Panel by mass or name.
