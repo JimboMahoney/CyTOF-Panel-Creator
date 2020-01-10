@@ -35,7 +35,7 @@ Checks to ensure that:
 
 
 
-[![Foo](https://raw.githubusercontent.com/JimboMahoney/CyTOF-Panel-Creator/master/2019_11_22_14_12_17_CyTOF_Template_Creator.png)](https://jimbomahoney.shinyapps.io/shiny/)
+[![Foo](https://raw.githubusercontent.com/JimboMahoney/CyTOF-Template-Creator/master/Clipboard01.png)](https://jimbomahoney.shinyapps.io/shiny/)
 
 ## Disclaimer:
 As with any software, this may have bugs and is used <b>at your own risk.</b>
