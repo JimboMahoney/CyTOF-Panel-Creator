@@ -1,9 +1,9 @@
 # CyTOF-Template-Creator
-A web-based (Shiny) [interface](https://jimbomahoney.shinyapps.io/shiny/) to create CyTOF .tem files.
+A web-based (Shiny) [interface](https://jimbomahoney.shinyapps.io/CyTOFTemplate/) to create CyTOF .tem files.
 
 This allows (hopefully) easy creation of .tem files, which can then be loaded onto a CyTOF system for acquisition.
 
-**_Last updated: 26th Feb 2020._**
+**_Last updated: 29th Feb 2020._** (Changed name of Shiny App)
 
 ## Motivation:
 
@@ -35,7 +35,7 @@ Checks to ensure that:
 
 
 
-[![Foo](https://raw.githubusercontent.com/JimboMahoney/CyTOF-Template-Creator/master/Clipboard01.png)](https://jimbomahoney.shinyapps.io/shiny/)
+[![Foo](https://raw.githubusercontent.com/JimboMahoney/CyTOF-Template-Creator/master/Clipboard01.png)](https://jimbomahoney.shinyapps.io/CyTOFTemplate/)
 
 ## Disclaimer:
 As with any software, this may have bugs and is used <b>at your own risk.</b>
