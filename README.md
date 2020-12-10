@@ -3,7 +3,7 @@ A web-based (Shiny) [interface](https://jimbomahoney.shinyapps.io/CyTOFTemplate/
 
 This allows (hopefully) easy creation of .tem files, which can then be loaded onto a CyTOF system for acquisition.
 
-**_Last updated: 29th Feb 2020._** (Changed name of Shiny App)
+**_Last updated: 10th Dec 2020._** 
 
 ## Motivation:
 
