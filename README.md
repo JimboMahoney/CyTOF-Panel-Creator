@@ -50,5 +50,5 @@ Before acquiring any data on an instrument, you should double-check that all cha
 Having said that, this tool was specifically designed to <b>reduce</b> the likelihood of missing channels. It's more likely that you will acquire <b>more</b> data using this template creator!
 <br>
 <br>
-Tested on a Helios running CyTOF software version 6.7.1014, using default Event mode parameters.
+Tested on a Helios running CyTOF software version 6.7.1014 and 7.0.8493, using default Event mode parameters.
 
