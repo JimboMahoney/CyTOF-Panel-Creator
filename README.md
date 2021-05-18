@@ -5,6 +5,8 @@ This allows (hopefully) easy creation of .tem files, which can then be loaded on
 
 **_Last updated: 26th Feb 2021._** 
 
+**_I no longer work with CyTOF data, so this is unlikely to be updated further_** 
+
 ## Motivation:
 
 - It seems unnecessary to download and install (CyTOF) software on an offline system to create an acquisition template.
